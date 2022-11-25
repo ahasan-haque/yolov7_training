@@ -1,0 +1,7 @@
+https://towardsdatascience.com/installing-pytorch-on-apple-m1-chip-with-gpu-acceleration-3351dc44d67c
+https://blog.paperspace.com/train-yolov7-custom-data/
+https://blog.paperspace.com/yolov7/
+https://rockyshikoku.medium.com/training-yolov7-b7b7e4606d22
+https://www.kaggle.com/code/jobayerhossain/yolov7-explanation-and-implementation-from-scratch
+https://roboflow.com/formats/yolov7-pytorch-txt
+https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5#scrollTo=tjbUIhSxUdm_
